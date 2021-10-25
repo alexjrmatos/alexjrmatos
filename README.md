@@ -1,15 +1,8 @@
-## Hi there 👋
-### Full Stack Developer @ omnify.cx
-Cursando Engenharia da Computação e estudante de desenvolvimento backend.
----
-Conhecimentos principais:
-- HTML
-- CSS
-- JS
-- REST API
-- AWS/GCP
-- Scrum/Metodologias Ágeis
+# Hi There 👋
 
-[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexjrmatos&theme=github_dark)](https://github.com/alexjrmatos/github-readme-stats)
+- 🔭 I’m currently working as Software Engineer [@Alex](https://github.com/alexjrmatos)
+- 🌱 I’m learning about backend development with Node.js
+- 
+![Alex's github stats](https://github-readme-stats.vercel.app/api?username=alexjrmatos&show_icons=true&theme=github_dark)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]https://www.linkedin.com/in/alexjrmatos/
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/alexjrmatos/)
