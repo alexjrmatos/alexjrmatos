@@ -9,3 +9,5 @@ Conhecimentos principais:
 - REST API
 - AWS/GCP
 - Scrum/Metodologias Ágeis
+
+[Link](https://www.linkedin.com/in/alexjrmatos/)
