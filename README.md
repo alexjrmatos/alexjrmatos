@@ -1,6 +1,6 @@
 # Hi There 👋
 
-- 🔭 I’m currently working as Software Engineer [@Alex](https://github.com/alexjrmatos)
+- 🔭 I’m currently working as Software Engineer at [@Omnify](https://omnify.cx)
 - 🌱 I’m learning about backend development with Node.js
 
 ![Alex's github stats](https://github-readme-stats.vercel.app/api?username=alexjrmatos&show_icons=true&theme=github_dark)
