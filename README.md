@@ -12,4 +12,4 @@ Conhecimentos principais:
 
 [![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexjrmatos&theme=github_dark)](https://github.com/alexjrmatos/github-readme-stats)
 
-[![LinkedIn](https://www.linkedin.com/in/alexjrmatos/)]https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]https://www.linkedin.com/in/alexjrmatos/
