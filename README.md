@@ -10,4 +10,4 @@ Conhecimentos principais:
 - AWS/GCP
 - Scrum/Metodologias Ágeis
 
-[Link](https://www.linkedin.com/in/alexjrmatos/)
+[LinkedIn](https://www.linkedin.com/in/alexjrmatos/)
