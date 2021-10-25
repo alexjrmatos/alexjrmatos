@@ -1,5 +1,4 @@
 ## Hi there 👋
----
 ### Full Stack Developer @ omnify.cx
 Cursando Engenharia da Computação e estudante de desenvolvimento backend.
 ---
