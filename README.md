@@ -10,4 +10,6 @@ Conhecimentos principais:
 - AWS/GCP
 - Scrum/Metodologias Ágeis
 
+[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexjrmatos)](https://github.com/anuraghazra/github-readme-stats)
+
 [LinkedIn](https://www.linkedin.com/in/alexjrmatos/)
