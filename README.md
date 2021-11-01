@@ -1,4 +1,4 @@
-# Hi There 👋
+# Hi there 👋
 
 - 🔭 I’m currently working as Software Engineer at [Omnify](https://omnify.cx)
 - 🌱 I’m learning about backend development with Node.js
