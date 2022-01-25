@@ -1,7 +1,7 @@
 # Hi there 👋
 
-- 🔭 I’m currently working as Software Engineer at [Omnify](https://omnify.cx)
-- 🌱 I’m learning about backend development with Node.js
+- 🔭 I’m currently working as Software Engineer at [TQI](https://www.tqi.com.br/)
+- 🌱 Currently learning about backend development with Node.js
 
 ![Alex's github stats](https://github-readme-stats.vercel.app/api?username=alexjrmatos&show_icons=true&theme=github_dark) </br>
 ![Alex's github top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexjrmatos&theme=github_dark)
